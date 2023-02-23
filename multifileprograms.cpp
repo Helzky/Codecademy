@@ -1,10 +1,6 @@
 #include <iostream>
 #include <cmath>
 
-// Add declarations here:
-#include <iostream>
-#include <cmath>
-
 // Function declarations:
 int tenth_power(int num);
 double average(double num1, double num2);
