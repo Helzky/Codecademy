@@ -2,9 +2,13 @@
 #include <cmath>
 
 // Add declarations here:
-int tenth_power();
-double average();
-bool is_palindrome();
+#include <iostream>
+#include <cmath>
+
+// Function declarations:
+int tenth_power(int num);
+double average(double num1, double num2);
+bool is_palindrome(std::string text);
 
 double average(double num1, double num2) {
   return (num1 + num2) / 2;
